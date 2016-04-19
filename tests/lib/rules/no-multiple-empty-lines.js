@@ -1,7 +1,8 @@
 /**
  * @fileoverview Disallows multiple blank lines.
  * @author Greg Cochard
- * @copyright 2014 Greg Cochard. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

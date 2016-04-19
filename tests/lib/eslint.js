@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for eslint object.
  * @author Nicholas C. Zakas
- * @copyright 2013 Nicholas C. Zakas. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 /* globals window */
 

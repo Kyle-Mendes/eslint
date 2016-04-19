@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for one-var-declaration-per-line rule.
  * @author Alberto Rodríguez
- * @copyright 2016 Alberto Rodríguez. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

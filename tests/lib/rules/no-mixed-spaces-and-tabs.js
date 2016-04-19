@@ -1,6 +1,8 @@
 /**
  * @fileoverview Disallow mixed spaces and tabs for indentation
  * @author Jary Niebur
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

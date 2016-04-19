@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for missing-err rule.
  * @author Jamund Ferguson
- * @copyright 2014 Jamund Ferguson. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

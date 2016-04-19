@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for no-magic-numbers rule.
  * @author Vincent Lemeunier
- * @copyright 2015 Vincent Lemeunier. All rights reserved.
- * See LICENSE in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

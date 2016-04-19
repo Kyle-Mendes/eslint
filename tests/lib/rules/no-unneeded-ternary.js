@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-unneeded-ternary rule.
  * @author Gyandeep Singh
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

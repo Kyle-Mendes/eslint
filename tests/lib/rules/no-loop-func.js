@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-loop-func rule.
  * @author Ilya Volodin
- * @copyright 2013 Ilya Volodin. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

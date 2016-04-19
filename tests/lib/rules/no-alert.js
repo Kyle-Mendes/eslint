@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for no-alert rule.
  * @author Nicholas C. Zakas
- * @copyright 2015 Mathias Schreck
- * @copyright 2013 Nicholas C. Zakas
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

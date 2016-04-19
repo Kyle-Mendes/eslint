@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for arrow-body-style
  * @author Alberto Rodríguez
- * @copyright 2015 Alberto Rodríguez. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-sequences rule.
  * @author Brandon Mills
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for require newline before `return` statement
  * @author Kai Cataldo
- * @copyright 2016 Kai Cataldo. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

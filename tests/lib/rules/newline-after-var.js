@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for newline-after-var rule.
  * @author Gopal Venkatesan
- * @copyright 2015 Gopal Venkatesan. All rights reserved.
- * @copyright 2015 Casey Visco. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-new-require rule.
  * @author Wil Moore III
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

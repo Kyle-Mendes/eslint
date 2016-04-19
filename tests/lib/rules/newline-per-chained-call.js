@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for newline-per-chained-call rule.
  * @author Rajendra Patil
- * @copyright 2016 Rajendra Patil. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

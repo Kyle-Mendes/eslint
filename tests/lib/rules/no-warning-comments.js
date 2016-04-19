@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-warning-comments rule.
  * @author Alexander Schmidt <https://github.com/lxanders>
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

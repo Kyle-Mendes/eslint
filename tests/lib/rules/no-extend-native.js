@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-extend-native rule.
  * @author David Nelson
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

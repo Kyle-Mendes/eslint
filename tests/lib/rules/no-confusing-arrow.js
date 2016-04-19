@@ -1,7 +1,7 @@
 /**
  * @fileoverview Tests for no-confusing-arrow rule.
  * @author Jxck <https://github.com/Jxck>
- * @copyright 2015 Luke Karrys. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
  * The MIT License (MIT)
 
  * Copyright (c) 2015 Jxck

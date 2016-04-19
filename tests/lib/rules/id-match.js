@@ -1,7 +1,8 @@
 /**
  * @fileoverview Rule to flag non-matching identifiers
  * @author Matthieu Larcher
- * @copyright 2015 Matthieu Larcher. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

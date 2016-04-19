@@ -1,6 +1,8 @@
 /**
  * @fileoverview Require spaces around infix operators
  * @author Michael Ficarra
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for HTML reporter.
  * @author Julian Laval
- * @copyright 2015 Julian Laval. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-native-reassign rule.
  * @author Ilya Volodin
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

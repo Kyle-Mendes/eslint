@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for jsx-quotes rule.
  * @author Mathias Schreck <https://github.com/lo1tuma>
- * @copyright 2015 Mathias Schreck
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

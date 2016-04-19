@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for consistent-this rule.
  * @author Raphael Pigulla
- * @copyright 2015 Timothy Jones. All rights reserved.
- * @copyright 2015 David Aurelio. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

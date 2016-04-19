@@ -1,7 +1,8 @@
 /**
  * @fileoverview A rule to control the style of variable initializations.
  * @author Colin Ihrig
- * @copyright 2015 Colin Ihrig. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

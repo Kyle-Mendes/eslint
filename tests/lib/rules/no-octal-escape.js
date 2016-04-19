@@ -2,6 +2,8 @@
 /**
  * @fileoverview Tests for no-octal-escape rule.
  * @author Ian Christian Myers
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

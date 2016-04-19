@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for no-implicit-globals rule.
  * @author Joshua Peek
- * @copyright 2015 Joshua Peek. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

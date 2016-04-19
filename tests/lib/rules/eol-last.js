@@ -1,6 +1,8 @@
 /**
  * @fileoverview Check, that file is ended with newline, and there are no multiple empty lines at the end.
  * @author Nodeca Team <https://github.com/nodeca>
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

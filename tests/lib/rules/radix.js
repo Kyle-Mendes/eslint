@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for radix rule.
  * @author James Allardice
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

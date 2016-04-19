@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for `no-restricted-syntax` rule
  * @author Burak Yigit Kaya
- * @copyright 2015 Burak Yigit Kaya. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

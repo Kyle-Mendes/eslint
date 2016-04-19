@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for space-before-block rule.
  * @author Mathias Schreck <https://github.com/lo1tuma>
- * @copyright 2014 Mathias Schreck. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

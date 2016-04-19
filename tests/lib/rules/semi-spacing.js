@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for semi-spacing.
  * @author Mathias Schreck
- * @copyright 2015 Mathias Schreck
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

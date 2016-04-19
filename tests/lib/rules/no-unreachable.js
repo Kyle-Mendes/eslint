@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-unreachable rule.
  * @author Joel Feenstra
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for undefined rule.
  * @author Ilya Volodin
- * @copyright 2013 Ilya Volodin. All rights reserved.
- * See LICENSE in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

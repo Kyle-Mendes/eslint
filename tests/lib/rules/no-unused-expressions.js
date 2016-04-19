@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-unused-expressions rule.
  * @author Michael Ficarra
- * @copyright 2013 Michael Ficarra. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

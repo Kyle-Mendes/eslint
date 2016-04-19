@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for max-statements-per-line rule.
  * @author Kenneth Williams
- * @copyright 2016 Kenneth Williams. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

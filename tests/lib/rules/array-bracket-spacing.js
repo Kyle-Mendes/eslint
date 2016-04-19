@@ -1,7 +1,8 @@
 /**
  * @fileoverview Disallows or enforces spaces inside of brackets.
  * @author Ian Christian Myers
- * @copyright 2014 Vignesh Anand. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

@@ -1,6 +1,8 @@
 /**
  * @fileoverview Rule to disallow use of void operator.
  * @author Mike Sidorov
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

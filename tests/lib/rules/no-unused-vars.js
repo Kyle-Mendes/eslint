@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-unused-vars rule.
  * @author Ilya Volodin
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

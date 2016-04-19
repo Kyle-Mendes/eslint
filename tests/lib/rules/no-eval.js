@@ -1,9 +1,9 @@
 /**
  * @fileoverview Tests for no-eval rule.
  * @author Nicholas C. Zakas
- * @copyright 2015 Toru Nagashima. All rights reserved.
- * @copyright 2013 Nicholas C. Zakas. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

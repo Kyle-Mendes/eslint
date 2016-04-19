@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for jUnit Formatter.
  * @author Jamund Ferguson
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 /* jshint node:true */

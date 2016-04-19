@@ -1,8 +1,8 @@
 /**
  * @fileoverview Disallows or enforces spaces inside of parentheses.
  * @author Jonathan Rajavuori
- * @copyright 2014 David Clark. All rights reserved.
- * @copyright 2014 Jonathan Rajavuori. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

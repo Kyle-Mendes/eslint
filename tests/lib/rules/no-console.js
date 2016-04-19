@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-console rule.
  * @author Nicholas C. Zakas
- * @copyright 2016 Eric Correia. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for arrow-parens
  * @author Jxck
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

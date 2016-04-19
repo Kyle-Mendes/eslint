@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for config validator.
  * @author Brandon Mills
- * @copyright 2015 Brandon Mills
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

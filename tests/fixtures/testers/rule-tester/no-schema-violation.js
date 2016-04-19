@@ -1,7 +1,9 @@
 /**
- ** @fileoverview Test rule to flag schema violations
- ** @author Brandon Mills
- **/
+ * @fileoverview Test rule to flag schema violations
+ * @author Brandon Mills
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
+ */
 
 //------------------------------------------------------------------------------
 // Rule Definition

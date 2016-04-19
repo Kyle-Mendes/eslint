@@ -1,7 +1,9 @@
 /**
- ** @fileoverview Test rule to flag if the settings var `test` is missing;
- ** @author Ilya Volodin
- **/
+ * @fileoverview Test rule to flag if the settings var `test` is missing;
+ * @author Ilya Volodin
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
+ */
 
 //------------------------------------------------------------------------------
 // Rule Definition
@@ -18,4 +20,3 @@ module.exports = function(context) {
         }
     };
 };
-

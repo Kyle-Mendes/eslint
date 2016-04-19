@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-constant-condition rule.
  * @author Christian Schulz <http://rndm.de>
- * @copyright 2014 Christian Schulz. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

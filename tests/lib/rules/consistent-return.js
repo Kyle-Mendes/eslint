@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for consistent-return rule.
  * @author Raphael Pigulla
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

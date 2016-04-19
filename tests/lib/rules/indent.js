@@ -2,8 +2,8 @@
  * @fileoverview This option sets a specific tab width for your code
  * @author Dmitriy Shekhovtsov
  * @author Gyandeep Singh
- * @copyright 2014 Dmitriy Shekhovtsov. All rights reserved.
- * @copyright 2015 Gyandeep Singh. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-useless-call rule.
  * @author Toru Nagashima
- * @copyright 2015 Toru Nagashima. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

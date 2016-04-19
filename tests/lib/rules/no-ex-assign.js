@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-ex-assign rule.
  * @author Stephen Murray <spmurrayzzz>
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

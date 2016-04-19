@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for max-statements rule.
  * @author Ian Christian Myers
- * @copyright 2013 Ian Christian Myers. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

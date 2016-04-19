@@ -1,7 +1,8 @@
 /**
  * @fileoverview Defines environment settings and globals.
  * @author Elan Shanker
- * @copyright 2014 Elan Shanker. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

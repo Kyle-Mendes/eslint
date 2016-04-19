@@ -1,7 +1,8 @@
 /**
  * @fileoverview Test file for require-jsdoc rule
  * @author Gyandeep Singh
- * @copyright 2015 Gyandeep Singh. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

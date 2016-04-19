@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for yield-star-spacing rule.
  * @author Bryan Smith
- * @copyright 2015 Bryan Smith. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

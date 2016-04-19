@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for unix-style formatter.
  * @author oshi-shinobu
- * @copyright 2015 oshi-shinobu. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

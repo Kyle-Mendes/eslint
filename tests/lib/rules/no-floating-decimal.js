@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-floating-decimal rule.
  * @author James Allardice
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

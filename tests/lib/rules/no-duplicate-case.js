@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-duplicate-case rule.
  * @author Dieter Oberkofler
- * @copyright 2015 Dieter Oberkofler. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

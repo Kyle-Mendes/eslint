@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for no-case-declarations rule.
  * @author Erik Arvidsson
- * @copyright 2015 Erik Arvidsson. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

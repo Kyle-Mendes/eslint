@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for config object.
  * @author Seth McLaughlin
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

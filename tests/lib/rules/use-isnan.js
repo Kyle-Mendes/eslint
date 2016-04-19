@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for use-isnan rule.
  * @author James Allardice, Michael Paulukonis
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

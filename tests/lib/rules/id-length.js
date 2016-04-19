@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for id-length rule.
  * @author Burak Yigit Kaya
- * @copyright 2015 Mathieu M-Gosselin. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

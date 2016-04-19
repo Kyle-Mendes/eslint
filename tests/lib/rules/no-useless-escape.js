@@ -1,7 +1,8 @@
 /**
  * @fileoverview Look for useless escapes in strings and regexes
  * @author Onur Temizkan
- * @copyright 2016 Onur Temizkan. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

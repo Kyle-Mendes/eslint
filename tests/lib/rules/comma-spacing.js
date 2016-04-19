@@ -1,8 +1,8 @@
 /**
  * @fileoverview tests to validate spacing before and after comma.
  * @author Vignesh Anand.
- * @copyright 2014 Vignesh Anand. All rights reserved.
- * @copyright 2015 Evan Simmons. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

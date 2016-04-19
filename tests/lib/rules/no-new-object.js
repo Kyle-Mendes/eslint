@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for the no-new-object rule
  * @author Matt DuVall <http://www.mattduvall.com/>
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

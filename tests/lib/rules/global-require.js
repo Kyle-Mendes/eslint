@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for global-require
  * @author Jamund Ferguson
- * @copyright 2015 Jamund Ferguson. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

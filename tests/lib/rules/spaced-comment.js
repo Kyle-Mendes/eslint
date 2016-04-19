@@ -1,8 +1,8 @@
 /**
  * @fileoverview Test for spaced-comments
  * @author Gyandeep Singh
- * @copyright 2015 Gyandeep Singh. All rights reserved.
- * @copyright 2014 Greg Cochard. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 "use strict";
 

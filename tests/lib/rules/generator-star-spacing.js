@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for generator-star-spacing rule.
  * @author Jamund Ferguson
- * @copyright 2015 Brandon Mills. All rights reserved.
- * @copyright 2014 Jamund Ferguson. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

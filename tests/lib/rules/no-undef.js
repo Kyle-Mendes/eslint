@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-undef rule.
  * @author Mark Macdonald
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

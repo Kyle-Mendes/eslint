@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for cli.
  * @author Ian Christian Myers
- * @copyright 2013 Ian Christian Meyers. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

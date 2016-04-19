@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for key-spacing rule.
  * @author Brandon Mills
- * @copyright 2014 Brandon Mills. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

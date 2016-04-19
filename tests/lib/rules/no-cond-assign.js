@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-cond-assign rule.
  * @author Stephen Murray <spmurrayzzz>
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

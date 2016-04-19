@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for no-extra-boolean-cast rule.
  * @author Brandon Mills
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

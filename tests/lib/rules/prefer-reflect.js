@@ -1,6 +1,8 @@
 /**
  * @fileoverview Tests for prefer-reflect rule.
  * @author Keith Cirkel
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

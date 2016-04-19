@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for eqeqeq rule.
  * @author Nicholas C. Zakas
- * @copyright 2013 Matt DuVall. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

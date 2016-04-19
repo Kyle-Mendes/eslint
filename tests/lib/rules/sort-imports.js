@@ -1,8 +1,8 @@
 /**
  * @fileoverview Tests for sort-imports rule.
  * @author Christian Schuller
- * @copyright 2015 Christian Schuller. All rights reserved.
- * See LICENSE file in root directory for full license.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

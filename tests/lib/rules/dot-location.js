@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for dot-location.
  * @author Greg Cochard
- * @copyright 2015 Greg Cochard
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

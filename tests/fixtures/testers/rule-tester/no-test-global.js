@@ -1,7 +1,9 @@
 /**
- ** @fileoverview Test rule to flag if the global var `test` is missing;
- ** @author Mathias Schreck
- **/
+ * @fileoverview Test rule to flag if the global var `test` is missing;
+ * @author Mathias Schreck
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
+ */
 
 //------------------------------------------------------------------------------
 // Rule Definition
@@ -25,4 +27,3 @@ module.exports = function(context) {
         }
     };
 };
-

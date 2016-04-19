@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for quote-props rule.
  * @author Mathias Bynens <http://mathiasbynens.be/>
- * @copyright 2015 Tomasz Olędzki. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

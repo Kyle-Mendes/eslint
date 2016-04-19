@@ -1,7 +1,9 @@
 /**
- ** @fileoverview Test rule to flag if the filename is missing;
- ** @author Stefan Lau
- **/
+ * @fileoverview Test rule to flag if the filename is missing;
+ * @author Stefan Lau
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
+ */
 
 //------------------------------------------------------------------------------
 // Rule Definition

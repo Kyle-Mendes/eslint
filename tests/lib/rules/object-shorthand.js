@@ -1,7 +1,8 @@
 /**
  * @fileoverview Tests for concise-object rule
  * @author Jamund Ferguson <http://www.jamund.com>
- * @copyright 2015 Jamund Ferguson. All rights reserved.
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
  */
 
 "use strict";

@@ -1,7 +1,9 @@
 /**
- ** @fileoverview Test rule to flag invalid args
- ** @author Mathias Schreck
- **/
+ * @fileoverview Test rule to flag invalid args
+ * @author Mathias Schreck
+ * @copyright jQuery Foundation and other contributors, https://jquery.org/
+ * MIT License
+ */
 
 //------------------------------------------------------------------------------
 // Rule Definition
@@ -20,4 +22,3 @@ module.exports = function(context) {
         }
     };
 };
-
