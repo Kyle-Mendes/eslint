@@ -1,6 +1,6 @@
-# Disallow use of constant expressions in conditions (no-constant-condition)
+# disallow constant expressions in conditions (no-constant-condition)
 
-Comparing a literal expression in a condition is usually a typo or development trigger for a specific behavior.
+A constant expression (for example, a literal) as a test condition might be a typo or development trigger for a specific behavior. For example, the following code looks as if it is not ready for production.
 
 ```js
 if (false) {
@@ -8,11 +8,9 @@ if (false) {
 }
 ```
 
-This pattern is most likely an error and should be avoided.
-
 ## Rule Details
 
-The rule is aimed at preventing a constant expression in the test of:
+This rule disallows constant expressions in the test condition of:
 
 * `if`, `for`, `while`, or `do...while` statement
 * `?:` ternary expression
